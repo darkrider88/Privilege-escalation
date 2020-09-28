@@ -19,8 +19,6 @@ ipconfig /all
 route print
 ```
 
-**ARP-arific**
-`arp -A`
 
 **Active network connections**
 `netstat -ano`
